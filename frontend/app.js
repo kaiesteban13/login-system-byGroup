@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000"; // Change this to your backend URL if needed
+const API_URL = "https://login-system-bygroup.onrender.com"; // Change this to your backend URL if needed
 
 const loginForm = document.getElementById("loginForm");
 const registerForm = document.getElementById("registerForm");
